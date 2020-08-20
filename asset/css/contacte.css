@@ -1,0 +1,56 @@
+h3
+{
+	color: red;
+	font-size: large;
+}
+
+.contactes
+{
+	color: blue;
+
+}
+.contactes:hover
+{
+	color: rgb(255, 0, 0);
+	text-decoration: underline;
+}
+.sitecolor
+{
+	color: blue;
+}
+a
+{
+	color: blue;
+	font-style:italic;
+}
+
+body
+{
+	width: 500px;
+	background-color: #c5c5c5;
+	margin: auto;
+	
+}
+.body
+{	margin-top: 120px;
+	padding-left:30px ;
+	border: 10px brown groove;
+	
+}
+a:hover /* Apparence au survol des liens */
+{
+	text-decoration: underline;
+	color: green;
+}
+a:active
+{
+	color: chocolate;
+}
+a.focus
+{
+	color: mediumblue;
+}
+a:visited
+{
+	color: darkslategray
+}
